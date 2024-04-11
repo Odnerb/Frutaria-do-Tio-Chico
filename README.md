@@ -2,7 +2,7 @@
 
 O sistema simula uma interação entre comerciante e cliente, onde o vendedor mostra o menu e o cliente escolhe
 o que vai comprar na tenda do Tio Chico. Se o usuário realizar todas as compras que deseja e queira encerrar,
-ele pode parar as compras apertando a opção 0 ou simplesmente repondendo a "não" quando for questionado se quer
+ele pode parar as compras apertando a opção 0 ou simplesmente respondendo a "não" quando for questionado se quer
 continuar e emitirá a nota. Caso o usuário escolha uma opção que não esteja de acordo com os itens da lista, o
 dono da frutaria o avisará que tal produto não existe e pedirá que escolha a opção correta e caso escolha um
 produto que não tenha itens suficientes, ele retorna que a quantidade desejada não tem e informa o quanto ainda
